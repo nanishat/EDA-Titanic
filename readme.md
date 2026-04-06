@@ -81,4 +81,4 @@ This repository presents a comprehensive exploratory data analysis of the **Tita
 
 ## 🤝 Acknowledgments  
 Dataset: [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)  
-Developed and analyzed by **Nanishat**  
+Developed and analyzed by **Safiul Mujnebin**  
